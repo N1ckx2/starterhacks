@@ -1,0 +1,6 @@
+[submodule "alexa-server"]
+	path = alexa-server
+	url = https://github.com/N1ckx2/alexa-server
+[submodule "RapChat"]
+	path = RapChat
+	url = https://github.com/june-xu/RapChat
